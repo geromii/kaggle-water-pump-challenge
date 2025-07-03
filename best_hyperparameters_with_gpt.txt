@@ -1,0 +1,6 @@
+Best hyperparameters for feature interactions + GPT model:
+n_estimators: 300
+random_state: 999
+validation_score: 0.8205
+improvement_over_no_gpt: -0.0083
+total_features: 57
